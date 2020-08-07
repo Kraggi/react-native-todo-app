@@ -1,5 +1,5 @@
 import React from 'react';
-import { StyleSheet, Text, View, TextInput, Button, Alert } from 'react-native';
+import { StyleSheet, View, TextInput, Button, Alert } from 'react-native';
 import { THEME } from '../theme';
 
 const AddTodo = ({ onSubmit }) => {
